@@ -1,4 +1,4 @@
-c # my-first-project
+# my-first-project
 
 My first GitHub project
 
